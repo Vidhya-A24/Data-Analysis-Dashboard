@@ -3,11 +3,10 @@
 ## Project Overview
 This Power BI dashboard provides a comprehensive analysis of **Ecom Express** sales performance, customer demographics, and cancellation trends. The goal is to enable data-driven decisions by visualizing key business metrics across various categories, brands, and geographies.
 
----
 ## Dataset Used
--<a href="https://github.com/Vidhya-A24/Data-Analysis-Dashboard/blob/main/Products.csv">Product Dataset</a>
--<a href="https://github.com/Vidhya-A24/Data-Analysis-Dashboard/blob/main/Customers.csv">customer Dataset</a>
--<a href="https://github.com/Vidhya-A24/Data-Analysis-Dashboard/blob/main/Orders.csv">orders Dataset</a>
+<a href="https://github.com/Vidhya-A24/Data-Analysis-Dashboard/blob/main/Products.csv">Product Dataset</a>
+<a href="https://github.com/Vidhya-A24/Data-Analysis-Dashboard/blob/main/Customers.csv">customer Dataset</a>
+<a href="https://github.com/Vidhya-A24/Data-Analysis-Dashboard/blob/main/Orders.csv">orders Dataset</a>
 
 ---
 ## Project Workflow
@@ -29,10 +28,14 @@ This Power BI dashboard provides a comprehensive analysis of **Ecom Express** sa
 
 ---
 ## Dashboard
+
+**Sales Overview**
 ![Revenue](https://github.com/user-attachments/assets/424c9b44-c78c-4c0f-9f5c-a0cf540c2fd5)
 
+**Customer Analysis**
 ![Customers](https://github.com/user-attachments/assets/2a389969-d668-45de-abff-df332a12f1e8)
 
+**Cancellation Analysis**
 ![Cancellation](https://github.com/user-attachments/assets/2e18f480-ef56-4b3a-838b-06bdcabc312b)
 
 ---
