@@ -11,11 +11,11 @@ This Power BI dashboard provides a comprehensive analysis of **Ecom Express** sa
 ---
 ## Project Workflow
 
-1. **Data Collection** - Collected data related to **product sales**, **customers**, and **order cancellations** including key fields such as product name, category, geography, and order status.
+1. **Data Collection** - Collected data related to **product sales**, **customers** and **order cancellations** including key fields such as product name, category, geography and order status.
 
 2. **Data Cleaning & Transforming** - Removed duplicate records and handled missing values, ensuring clean and structured data ready for analysis.
 
-3. **Created KPIs and Measures using DAX** - Total Revenue, Total Sales, Total Order, Total customer, Total States, lost revenue and Cancellation Rate.
+3. **Created KPIs and Measures using DAX** - Total Revenue, Total Sales, Total Order, Total customer, Total States, Lost revenue and Cancellation Rate.
 
 4. **Built three interactive dashboard**  
    - Sales Overview  
